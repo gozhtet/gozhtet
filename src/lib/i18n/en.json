@@ -1,0 +1,20 @@
+{
+  "sidebar": {
+    "settings": "Settings",
+    "contextmenu": {
+      "new_document": "New document"
+    }
+  },
+  "welcome": {
+    "title": "Welcome"
+  },
+  "settings": {
+    "title": "Settings",
+    "tabs": {
+      "general": "General",
+      "plugins": "Plugins",
+      "themes": "Themes",
+      "advanced": "Advanced"
+    }
+  }
+}

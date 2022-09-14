@@ -1,0 +1,20 @@
+{
+  "sidebar": {
+    "settings": "Настройки",
+    "contextmenu": {
+      "new_document": "Новый документ"
+    }
+  },
+  "welcome": {
+    "title": "Добро пожаловать"
+  },
+  "settings": {
+    "title": "Настройки",
+    "tabs": {
+      "general": "Общий",
+      "plugins": "Плагины",
+      "themes": "Темы",
+      "advanced": "Продвинутый"
+    }
+  }
+}
